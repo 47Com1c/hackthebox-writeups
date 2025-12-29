@@ -1,5 +1,5 @@
 # hackthebox-writeups
-My Stupid Hack The Box and CTF writeups
+My Stupid HackTheBox and CTF writeups
 
 
 [![Hack The Box](https://www.crest-approved.org/wp-content/uploads/ultimatemember/1086/stream_photo_f91dcc65_54ba6b4e92b24ddf4447421e70dbe251c4d8292c.png)](https://app.hackthebox.com/public/users/2186511)
