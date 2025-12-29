@@ -1,8 +1,6 @@
 # hackthebox-writeups
 My Stupid Hack The Box and CTF writeups
 
-# CTF Write Ups
-
 
 [![Hack The Box](https://www.crest-approved.org/wp-content/uploads/ultimatemember/1086/stream_photo_f91dcc65_54ba6b4e92b24ddf4447421e70dbe251c4d8292c.png)](https://app.hackthebox.com/public/users/2186511)
 
@@ -21,5 +19,6 @@ These write ups are just notes that I was taking during a live seasonal machine,
 | 7 | [Gavel](https://www.notion.so/Gavel-Medium-2bb5f6ae109880a89750c6591a786c0c?source=copy_link) | Linux | Medium |
 
 
-
+## Others
+Medium: https://medium.com/@pitiphatcom1c
 
